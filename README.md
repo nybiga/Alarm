@@ -26,6 +26,10 @@ Breadboard (2)
 4 digit 7 segment display
 Jumper wires(15)
 
+## Library used
+
+SevSeg@^3.7.1 by deanisme
+
 ## Design
 
 See alarm_circuit.png for circuit design.
